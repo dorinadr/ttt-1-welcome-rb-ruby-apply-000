@@ -1,4 +1,4 @@
-# Welcome Message for Tic Tac Toe
+ # Welcome Message for Tic Tac Toe
 
 ## Overview
 
@@ -35,7 +35,7 @@ When you run `ruby lib/welcome.rb` from your terminal you are asking the Ruby in
 
 The solution to this is to make sure you have `puts "Welcome to Tic Tac Toe!"` in `lib/welcome.rb`. A working program should look like:
 
-![Working program](http://learn-co-videos.s3.amazonaws.com/ruby/working.tic.tac.toe.rb.gif)
+![Working program](http://learn-co b.gif)
 
 **Note:** Contrary to the workflow of the previous lesson, it is NOT necessary to create a new file to contain the 'puts` instruction.  
 
